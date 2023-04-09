@@ -12,6 +12,3 @@ We also want to see how much chocolate we can fit in our budget before we raise 
 A few buzzwords: blockchain, ML, AI, deep learning, 3D printing, quantum computing
 
 Parts list in parts section and here: https://docs.google.com/spreadsheets/d/1-nRvLrxdAhHTV4br6_4L0fjZedhTALCgCPtYoUkiV6U/edit#gid=0
-
-Team:
-![image](https://user-images.githubusercontent.com/103799638/230753299-13cbe1f1-147f-45ac-9795-cc90fc6512fe.png)

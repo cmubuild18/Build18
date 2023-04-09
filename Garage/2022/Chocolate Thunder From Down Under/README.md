@@ -15,3 +15,5 @@ Parts list in parts section and here: https://docs.google.com/spreadsheets/d/1-n
 
 ![image](https://user-images.githubusercontent.com/103799638/230753299-13cbe1f1-147f-45ac-9795-cc90fc6512fe.png)
 
+<img width="284" alt="id_1614" src="https://user-images.githubusercontent.com/103799638/230753683-a8efe5d2-3d26-4f46-9d68-0a9b428312f8.png">
+![id_1248](https://user-images.githubusercontent.com/103799638/230753691-5599267a-e894-4952-b9f4-e0e6d1005d28.png)
